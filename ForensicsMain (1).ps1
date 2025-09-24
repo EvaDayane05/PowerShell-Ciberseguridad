@@ -1,3 +1,5 @@
+# Editado por <Eva Rodriguez el 24/09/2025
+
 Set-StrictMode -Version Latest
 Import-Module "$PSScriptRoot\ForensicsModule.psm1" -Force
 
