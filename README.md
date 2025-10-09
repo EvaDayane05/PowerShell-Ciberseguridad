@@ -8,3 +8,5 @@ PROYECTOS
 =Análisis de logs, Detección de conexiones sospechosas, Verificación de IPs maliciosas
 ¿Qué aprendiste al desarrollarlos?
 =como crear, modificar y eliminar elementos en una tabla hash en powershell,manipulación de datos, como usar Read-Host, switch, y do...while para crear menús interactivos, uso de Import-Module
+EVIDENCIA18
+el archivo apikey.txt debe crearse, el contenido que debe tener y que no debe compartirse públicamente.
