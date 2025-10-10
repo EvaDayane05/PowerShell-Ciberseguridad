@@ -1,0 +1,4 @@
+Título,Dominio,Fecha de Brecha,Datos Comprometidos,Verificada,Sensible
+Onliner Spambot,,28/08/2017,"Email addresses, Passwords",True,False
+Wattpad,wattpad.com,29/06/2020,"Bios, Dates of birth, Email addresses, Genders, Geographic locations, IP addresses, Names, Passwords, Social media profiles, User website URLs, Usernames",True,False
+Cit0day,cit0day.in,04/11/2020,"Email addresses, Passwords",False,False
