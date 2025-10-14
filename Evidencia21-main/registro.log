@@ -1,0 +1,8 @@
+2025-10-10 18:05:08,365 - ERROR - No se encontró la variable de entorno HIBP_API_KEY.
+2025-10-10 18:05:08,366 - ERROR - Error general: Error: No se encontró la API key.
+2025-10-10 18:07:46,383 - ERROR - No se encontró la variable de entorno HIBP_API_KEY.
+2025-10-10 18:07:46,383 - ERROR - Error general: Error: No se encontró la API key.
+2025-10-10 18:10:19,391 - INFO - Consulta exitosa para correo@ejemplo.com
+2025-10-10 18:10:25,460 - INFO - Archivo reporte.csv generado correctamente.
+2025-10-14 09:12:06,241 - INFO - Consulta exitosa para correo@example.com
+2025-10-14 09:12:15,832 - INFO - Archivo reporte.csv generado correctamente.
